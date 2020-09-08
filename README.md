@@ -47,7 +47,7 @@ GitHub Repos
 
 Current projects I'm working on
 
-[a.jfif](a.jfif)
+[<img src="./a.jfif">](a.jfif)
 
 A social media platform that encourages people to be the best version of themselves
 
@@ -55,7 +55,7 @@ A social media platform that encourages people to be the best version of themsel
 
 [https://github.com/Ofrepose/upliftagram](https://github.com/Ofrepose/upliftagram)
 
-[Hello!%20c8cb783cdc7a4289b3eb69f733c147bd/0_(1).jfif](Hello!%20c8cb783cdc7a4289b3eb69f733c147bd/0_(1).jfif)
+[<img src="github.com/Ofrepose/Ofrepose/b.jfif">](Hello!%20c8cb783cdc7a4289b3eb69f733c147bd/0_(1).jfif)
 
 This app will connect new developers with small businesses who are looking to have their websites updated and revamped. Allowing businesses with smaller budgets to upgrade their web presence while giving new developers projects and experience for their portfolios.
 
