@@ -41,7 +41,7 @@ LinkedIn
 
 GitHub Repos
 
-[Ofrepose - Overview](https://github.com/Ofrepose)
+[Ofrepose - Overview](https://github.com/Ofrepose?tab=repositories)
 
 ### Upcoming Projects:
 
