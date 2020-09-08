@@ -47,7 +47,7 @@ GitHub Repos
 
 Current projects I'm working on
 
-[Hello!%20c8cb783cdc7a4289b3eb69f733c147bd/0.jfif](Hello!%20c8cb783cdc7a4289b3eb69f733c147bd/0.jfif)
+[a.jfif](a.jfif)
 
 A social media platform that encourages people to be the best version of themselves
 
