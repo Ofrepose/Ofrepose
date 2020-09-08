@@ -33,7 +33,7 @@ I am always looking to connect with other people to talk tech or work on excitin
 
 Portfolio
 
-[https://www.danielfpayne.com](https://www.danielfpayne.com)
+[https://danielfpayne.com](https://danielfpayne.com)
 
 LinkedIn
 
