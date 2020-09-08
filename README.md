@@ -47,7 +47,7 @@ GitHub Repos
 
 Current projects I'm working on
 
-[<img src="./imgs/a.jfif">](a.jfif)
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/a.jfif">](a.jfif)
 
 A social media platform that encourages people to be the best version of themselves
 
