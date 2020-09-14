@@ -53,9 +53,17 @@ A speed reading app that brings the words to you
 
 [https://danielfpayne.com/wordsHome](https://danielfpayne.com/wordsHome)
 
- Flask - Python - Jinja - JavaScript 
+ Flask - Python - Jinja - JavaScript
+ 
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/theVald2.jpg">](theVald2.jpg)
 
-[https://github.com/Ofrepose/upliftagram](https://github.com/Ofrepose/upliftagram)
+A simple but effective workout app that uses both user and community created work outs.
+
+Flask - Python - Jinja - JavaScript 
+
+[https://thevald.com](https://thevald.com)
+
+[https://github.com/Ofrepose/TheVald](https://github.com/Ofrepose/TheVald)
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/a.jfif">](a.jfif)
 
