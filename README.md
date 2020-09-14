@@ -47,6 +47,14 @@ GitHub Repos
 
 Current projects I'm working on
 
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/words.png">](words.png)
+
+A speed reading app that brings the words to you
+
+ Flask - Python - Jinja - JavaScript 
+
+[https://github.com/Ofrepose/upliftagram](https://github.com/Ofrepose/upliftagram)
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/a.jfif">](a.jfif)
 
 A social media platform that encourages people to be the best version of themselves
