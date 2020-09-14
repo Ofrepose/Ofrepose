@@ -51,6 +51,8 @@ Current projects I'm working on
 
 A speed reading app that brings the words to you
 
+[https://danielfpayne.com/wordsHome](https://danielfpayne.com/wordsHome)
+
  Flask - Python - Jinja - JavaScript 
 
 [https://github.com/Ofrepose/upliftagram](https://github.com/Ofrepose/upliftagram)
