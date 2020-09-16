@@ -4,13 +4,11 @@
 
 Thanks for visiting my page - a little about myself:
 
-I'm a full stack software developer with focused skills in JavaScript and Python. Although I am language agnostic and absolutely love learning new programming languages!
+I'm a full stack web developer/hobbyist game developer and I want to code all of your things. My specialties include Python, JavaScript, React, Node and Express.
 
-In all of my web apps I try to implement two key ideals:
+I love working on projects that help people and allow me to code with a purpose, and I'm well-prepared to transition related education and hands-on projects to excel in an entry-level software engineering role.
 
-Usability and Simplicity.
-
-I have tried to focus on creating websites that are both beautiful and laid out in a simple and understandable way. You can check out some of my projects listed below in my Accomplishments section.
+I am always looking to connect with other people to talk tech or work on exciting projects, so if you would like to learn more about me feel free to reach out!
 
 Technical Skills:
 
