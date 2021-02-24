@@ -6,7 +6,7 @@ Thanks for visiting my page - a little about myself:
 
 I'm a full stack web developer/hobbyist game developer and I want to code all of your things. My specialties include Python, JavaScript, React, Node and Express.
 
-I love working on projects that help people and allow me to code with a purpose, and I'm well-prepared to transition related education and hands-on projects to excel in an entry-level software engineering role.
+I love working on projects that help people and allow me to code with a purpose, and I'm well-prepared to transition related education and professional experience to excel in a software engineering role.
 
 I am always looking to connect with other people to talk tech or work on exciting projects, so if you would like to learn more about me feel free to reach out!
 
