@@ -25,7 +25,6 @@ Technical Skills:
 - Django
 - Flask | jinja
 
-I am always looking to connect with other people to talk tech or work on exciting projects, so if you would like to learn more about me feel free to reach out!
 
 ### Links:
 
