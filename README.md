@@ -34,7 +34,7 @@ Portfolio
 
 LinkedIn
 
-[Daniel Payne - Technician - Developer - AcoustiCreations | LinkedIn](https://www.linkedin.com/in/danielfpayne/)
+[Daniel Payne - Full Stack Developer | LinkedIn](https://www.linkedin.com/in/danielfpayne/)
 
 GitHub Repos
 
