@@ -44,7 +44,7 @@ GitHub Repos
 
 Current projects I'm working on
 
-[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png">](hostPulser.png)
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png)
 
 A complete hosting monitoring suite that integrates sms notifications and digital-ocean administration with automatic repair attempts. 
 
