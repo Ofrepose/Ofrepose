@@ -48,6 +48,8 @@ Current projects I'm working on
 
 A complete hosting monitoring suite that integrates sms notifications and digital-ocean administration with automatic repair attempts. 
 
+React - Redux - Express - Nodejs
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/example3.png">](workoutRPG.png)
 
 A workout application for people who love RPGs. A way to keep users engaged in their workout.
