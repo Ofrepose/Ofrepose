@@ -64,6 +64,16 @@ React - Redux - Express - Nodejs - Python - JavaScript
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/example3.png">](workoutRPG.png)
 
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/theVald2.jpg">](theVald2.jpg)
+
+A simple but effective workout app that uses both user and community created work outs.
+
+Flask - Python - Jinja - JavaScript 
+
+[https://thevald.com](https://thevald.com)
+
+[https://github.com/Ofrepose/TheVald](https://github.com/Ofrepose/TheVald)
+
 A workout application for people who love RPGs. A way to keep users engaged in their workout.
 
 React - Redux - Express - Nodejs
@@ -76,15 +86,6 @@ A speed reading app that brings the words to you
 
  Flask - Python - Jinja - JavaScript
  
-[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/theVald2.jpg">](theVald2.jpg)
-
-A simple but effective workout app that uses both user and community created work outs.
-
-Flask - Python - Jinja - JavaScript 
-
-[https://thevald.com](https://thevald.com)
-
-[https://github.com/Ofrepose/TheVald](https://github.com/Ofrepose/TheVald)
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/a.jfif">](a.jfif)
 
