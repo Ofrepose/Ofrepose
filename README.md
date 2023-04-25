@@ -52,11 +52,15 @@ To further facilitate your outreach efforts, LeadPulser offers a range of custom
 
 React - Redux - Express - Nodejs - MongoDB - JavaScript
 
+[https://leadpulser.com](https://leadpulser.com)
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png)
 
 A complete hosting monitoring suite that integrates sms notifications and digital-ocean administration with automatic repair attempts. 
 
 React - Redux - Express - Nodejs - Python - JavaScript
+
+[https://hostpulser.com](https://hostpulser.com)
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/example3.png">](workoutRPG.png)
 
