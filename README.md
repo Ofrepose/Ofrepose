@@ -44,7 +44,7 @@ GitHub Repos
 
 Current projects I'm working on
 
-[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png)
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png)
 
 You gain valuable insights into a business's web presence, identifying opportunities for improvement through detailed evaluations of SEO and accessibility, along with easy-to-understand breakdowns of the issues. Armed with this knowledge, you can offer targeted solutions tailored to each client's specific needs.
 
