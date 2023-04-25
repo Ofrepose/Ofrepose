@@ -54,7 +54,7 @@ React - Redux - Express - Nodejs - MongoDB - JavaScript
 
 [https://leadpulser.com](https://leadpulser.com)
 
-[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png)
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostpulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostpulser.png)
 
 A complete hosting monitoring suite that integrates sms notifications and digital-ocean administration with automatic repair attempts. 
 
