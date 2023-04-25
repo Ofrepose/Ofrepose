@@ -44,6 +44,14 @@ GitHub Repos
 
 Current projects I'm working on
 
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png)
+
+You gain valuable insights into a business's web presence, identifying opportunities for improvement through detailed evaluations of SEO and accessibility, along with easy-to-understand breakdowns of the issues. Armed with this knowledge, you can offer targeted solutions tailored to each client's specific needs.
+
+To further facilitate your outreach efforts, LeadPulser offers a range of customizable conversation starters, designed to help you pitch your services with confidence and effectiveness. 
+
+React - Redux - Express - Nodejs - MongoDB - JavaScript
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostPulser.png)
 
 A complete hosting monitoring suite that integrates sms notifications and digital-ocean administration with automatic repair attempts. 
