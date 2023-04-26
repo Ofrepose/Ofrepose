@@ -2,13 +2,11 @@
 
 ## 
 
-Thanks for visiting my page - a little about myself:
+I'm a full stack software engineer, proficient in various programming languages including Python, JavaScript, React, Node, and Express.
 
-I'm a full stack web developer/hobbyist game developer and I want to code all of your things. My specialties include Python, JavaScript, React, Node and Express.
+What I find most fulfilling is working on projects that have a positive impact on people's lives and provide me with a sense of purpose. I thoroughly enjoy using my problem-solving skills to come up with innovative solutions through coding. 
 
-I love working on projects that help people and allow me to code with a purpose, and I'm well-prepared to transition related education and professional experience to excel in a software engineering role.
-
-I am always looking to connect with other people to talk tech or work on exciting projects, so if you would like to learn more about me feel free to reach out!
+I'm always looking to connect with like-minded individuals, discuss technology, or collaborate on exciting projects. So, if you'd like to learn more about me, feel free to reach out!
 
 Technical Skills:
 
