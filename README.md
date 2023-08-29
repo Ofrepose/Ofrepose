@@ -42,6 +42,12 @@ GitHub Repos
 
 Current projects I'm working on
 
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/screenshots.gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/screenshots.gif)
+
+The AutoUpdater & E2E Tester is a versatile tool designed to streamline the management of your project's dependencies, keep you informed about outdated packages, and ensure the functionality of your application through end-to-end (E2E) testing. With the ability to integrate seamlessly with your project's package.json file, this application simplifies the process of staying up-to-date, maintaining reliable user journeys, and addressing potential issues.
+
+React - Redux - Express - Nodejs - MongoDB - JavaScript
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png)
 
 You gain valuable insights into a business's web presence, identifying opportunities for improvement through detailed evaluations of SEO and accessibility, along with easy-to-understand breakdowns of the issues. Armed with this knowledge, you can offer targeted solutions tailored to each client's specific needs.
