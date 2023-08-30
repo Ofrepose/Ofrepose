@@ -58,6 +58,8 @@ Python - tkinter
 
 [https://github.com/Ofrepose/speech-dictionary](https://github.com/Ofrepose/speech-dictionary)
 
+---
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png)
 
 You gain valuable insights into a business's web presence, identifying opportunities for improvement through detailed evaluations of SEO and accessibility, along with easy-to-understand breakdowns of the issues. Armed with this knowledge, you can offer targeted solutions tailored to each client's specific needs.
@@ -68,6 +70,8 @@ React - Redux - Express - Nodejs - MongoDB - JavaScript
 
 [https://leadpulser.com](https://leadpulser.com)
 
+---
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostpulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostpulser.png)
 
 A complete hosting monitoring suite that integrates sms notifications and digital-ocean administration with automatic repair attempts. 
@@ -75,6 +79,8 @@ A complete hosting monitoring suite that integrates sms notifications and digita
 React - Redux - Express - Nodejs - Python - JavaScript
 
 [https://hostpulser.com](https://hostpulser.com)
+
+---
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/theVald2.jpg">](theVald2.jpg)
 
@@ -85,6 +91,8 @@ Flask - Python - Jinja - JavaScript
 [https://thevald.com](https://thevald.com)
 
 [https://github.com/Ofrepose/TheVald](https://github.com/Ofrepose/TheVald)
+
+---
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/words.png">](words.png)
 
