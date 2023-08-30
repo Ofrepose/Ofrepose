@@ -48,6 +48,16 @@ The AutoUpdater & E2E Tester is a versatile tool designed to streamline the mana
 
 React - Redux - Express - Nodejs - MongoDB - JavaScript
 
+---
+
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/speechPythonExample.gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/speechPythonExample.gif)
+
+This Python speech recognition software is designed to enhance video call experiences by listening for specific keywords from a library. When the software detects a keyword, it overlays the definition and example of the keyword on the screen, providing real-time context and information to the user.
+
+Python - tkinter
+
+[https://github.com/Ofrepose/speech-dictionary](https://github.com/Ofrepose/speech-dictionary)
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png)
 
 You gain valuable insights into a business's web presence, identifying opportunities for improvement through detailed evaluations of SEO and accessibility, along with easy-to-understand breakdowns of the issues. Armed with this knowledge, you can offer targeted solutions tailored to each client's specific needs.
