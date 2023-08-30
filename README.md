@@ -51,6 +51,7 @@ Logtastic is a versatile npm package designed to enhance your console logging ex
 
 ---
 
+# E2E-Pulser
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/screenshots.gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/screenshots.gif)
 
 The AutoUpdater & E2E Tester is a versatile tool designed to streamline the management of your project's dependencies, keep you informed about outdated packages, and ensure the functionality of your application through end-to-end (E2E) testing. With the ability to integrate seamlessly with your project's package.json file, this application simplifies the process of staying up-to-date, maintaining reliable user journeys, and addressing potential issues.
@@ -59,6 +60,7 @@ React - Redux - Express - Nodejs - MongoDB - JavaScript
 
 ---
 
+# Speech overlay
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/speechPythonExample.gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/speechPythonExample.gif)
 
 This Python speech recognition software is designed to enhance video call experiences by listening for specific keywords from a library. When the software detects a keyword, it overlays the definition and example of the keyword on the screen, providing real-time context and information to the user.
@@ -69,6 +71,7 @@ Python - tkinter
 
 ---
 
+# Lead Pulser
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/leadpulser.png)
 
 You gain valuable insights into a business's web presence, identifying opportunities for improvement through detailed evaluations of SEO and accessibility, along with easy-to-understand breakdowns of the issues. Armed with this knowledge, you can offer targeted solutions tailored to each client's specific needs.
@@ -81,6 +84,7 @@ React - Redux - Express - Nodejs - MongoDB - JavaScript
 
 ---
 
+# Host Pulser
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostpulser.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/hostpulser.png)
 
 A complete hosting monitoring suite that integrates sms notifications and digital-ocean administration with automatic repair attempts. 
