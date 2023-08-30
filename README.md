@@ -42,6 +42,15 @@ GitHub Repos
 
 Current projects I'm working on
 
+# Logtastic
+![npm (scoped)](https://img.shields.io/npm/v/%40ofrepose/logtastic)![npm package minimized gzipped size (scoped version select exports)](https://img.shields.io/bundlejs/size/%40ofrepose/logtastic%401.0.1)
+
+Logtastic is a versatile npm package designed to enhance your console logging experience by allowing you to customize the appearance of your log messages with various colors, styles, and backgrounds. By integrating Logtastic into your project, you can make your terminal output more visually engaging and improve the distinction between different types of log messages.
+
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/logtastic2.jpg">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/logtastic2.jpg)
+
+---
+
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/screenshots.gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/screenshots.gif)
 
 The AutoUpdater & E2E Tester is a versatile tool designed to streamline the management of your project's dependencies, keep you informed about outdated packages, and ensure the functionality of your application through end-to-end (E2E) testing. With the ability to integrate seamlessly with your project's package.json file, this application simplifies the process of staying up-to-date, maintaining reliable user journeys, and addressing potential issues.
