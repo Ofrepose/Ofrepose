@@ -26,10 +26,6 @@ Technical Skills:
 
 ### Links:
 
-Portfolio
-
-[https://danielfpayne.com](https://danielfpayne.com)
-
 LinkedIn
 
 [Daniel Payne - Full Stack Developer | LinkedIn](https://www.linkedin.com/in/danielfpayne/)
