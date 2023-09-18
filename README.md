@@ -2,20 +2,16 @@
 
 ## 
 
-I'm a full stack software engineer, proficient in various programming languages including Python, JavaScript, React, Node, and Express.
-
-What I find most fulfilling is working on projects that have a positive impact on people's lives and provide me with a sense of purpose. I thoroughly enjoy using my problem-solving skills to come up with innovative solutions through coding. 
-
-I'm always looking to connect with like-minded individuals, discuss technology, or collaborate on exciting projects. So, if you'd like to learn more about me, feel free to reach out!
+Let's build cool things.
 
 Technical Skills:
 
-- JavaScript | jQuery
-- HTML5
+- JavaScript
+- React
+- Node
 - CSS3
-- React | Redux
+- React
 - Python
-- Node.js | Express.js
 - mySQL | sqlite3
 - C#
 - TDD
