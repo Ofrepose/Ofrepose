@@ -1,7 +1,5 @@
 # Hello!
 
-## 
-
 Let's build cool things.
 
 ### Links:
