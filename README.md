@@ -4,22 +4,6 @@
 
 Let's build cool things.
 
-Technical Skills:
-
-- JavaScript
-- React
-- Node
-- CSS3
-- React
-- Python
-- mySQL | sqlite3
-- C#
-- TDD
-- Git|GitHub
-- Django
-- Flask | jinja
-
-
 ### Links:
 
 LinkedIn
