@@ -12,9 +12,9 @@ GitHub Repos
 
 [Ofrepose - Overview](https://github.com/Ofrepose?tab=repositories)
 
-### Upcoming Projects:
+### Personal Projects:
 
-Current projects I'm working on
+Stuff I'm tinkering with
 
 # Logtastic
 ![npm (scoped)](https://img.shields.io/npm/v/%40ofrepose/logtastic)![npm package minimized gzipped size (scoped version select exports)](https://img.shields.io/bundlejs/size/%40ofrepose/logtastic%401.0.1)
