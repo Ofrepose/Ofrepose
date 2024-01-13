@@ -4,6 +4,8 @@ Let's build cool things.
 
 ### Links:
 
+[Portfolio](https://danielfpayne.com/)
+
 LinkedIn
 
 [Daniel Payne - Full Stack Developer | LinkedIn](https://www.linkedin.com/in/danielfpayne/)
