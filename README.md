@@ -6,7 +6,7 @@ Let's build cool things.
 
 [Portfolio](https://danielfpayne.com/)
 
-[Daniel Payne - Full Stack Developer | LinkedIn](https://www.linkedin.com/in/danielfpayne/)
+[LinkedIn](https://www.linkedin.com/in/danielfpayne/)
 
 ### Personal Projects:
 
