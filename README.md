@@ -19,6 +19,7 @@ I don't know. I got tired of logging into different accounts to maintain my serv
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlhub2%20(1).gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlhub2%20(1).gif)
 
+[<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlHubUpdate.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlHubUpdate.png)
 
 [https://controlhub.endquery.com](https://controlhub.endquery.com)
 
