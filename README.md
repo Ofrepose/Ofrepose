@@ -6,13 +6,7 @@ Let's build cool things.
 
 [Portfolio](https://danielfpayne.com/)
 
-LinkedIn
-
 [Daniel Payne - Full Stack Developer | LinkedIn](https://www.linkedin.com/in/danielfpayne/)
-
-GitHub Repos
-
-[Ofrepose - Overview](https://github.com/Ofrepose?tab=repositories)
 
 ### Personal Projects:
 
