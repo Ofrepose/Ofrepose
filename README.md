@@ -14,8 +14,8 @@ Stuff I'm tinkering with
 
 # ControlHub
 
-The all-in-one solution for controlling servers across different vendors seamlessly. Gain unparalleled access and control over your servers, whether they're on AWS, Digital Ocean, or any other platform, all from a single, user-friendly interface.
-I don't know. I got tired of logging into different accounts to maintain my servers so I made this. Log in and control your computers from anywhere. Goal is to make this a browser based OS eventually. Or I'll see a squirrel and get distracted with another project.
+A secure and unified platform for users to sign in remotely to multiple servers. With customizable modules designed for popular services such as PM2, Apache, Nginx, PostgreSQL, MySQL, and more, users can effortlessly control and monitor their servers from a centralized hub. The intuitive interface streamlines operations, providing a seamless experience for managing files, configuring services, and optimizing server performance
+I don't know. I got tired of logging into different accounts to maintain my servers so I spent a week and made this. Log in and control your computers from anywhere. Goal is to make this a browser based OS eventually. Or I'll see a squirrel and get distracted with another project.
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlhub2.gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlhub2.gif)
 
