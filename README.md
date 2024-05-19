@@ -4,7 +4,7 @@ Let's build cool things.
 
 ### Links:
 
-[Portfolio](https://danielfpayne.com/)
+[Portfolio](https://endquery.com/)
 
 [LinkedIn](https://www.linkedin.com/in/danielfpayne/)
 
@@ -31,7 +31,7 @@ IssueHub is a platform designed to assist you in discovering and resolving issue
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/issuehubPreview.gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/issuehubPreview.gif)
 
-[https://issuehub.danielfpayne.com](https://issuehub.danielfpayne.com)
+[https://issuehub.danielfpayne.com](https://issuehub.endquery.com)
 
 ---
 
@@ -55,6 +55,7 @@ The AutoUpdater & E2E Tester is a versatile tool designed to streamline the mana
 React - Redux - Express - Nodejs - MongoDB - JavaScript
 
 [https://github.com/Ofrepose/e2e-pulser](https://github.com/Ofrepose/e2e-pulser)
+[https://e2epulser.endquery.com](https://e2epulser.endquery.com)
 
 ---
 
@@ -78,7 +79,7 @@ To further facilitate your outreach efforts, LeadPulser offers a range of custom
 
 React - Redux - Express - Nodejs - MongoDB - JavaScript
 
-[https://leadpulser.com](https://leadpulser.com)
+[https://leadpulser.com](https://leadpulser.endquery.com)
 
 ---
 
