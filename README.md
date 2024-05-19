@@ -31,7 +31,7 @@ IssueHub is a platform designed to assist you in discovering and resolving issue
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/issuehubPreview.gif">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/issuehubPreview.gif)
 
-[https://issuehub.danielfpayne.com](https://issuehub.endquery.com)
+[https://issuehub.endquery.com](https://issuehub.endquery.com)
 
 ---
 
