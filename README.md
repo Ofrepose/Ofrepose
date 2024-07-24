@@ -4,7 +4,7 @@ Let's build cool things.
 
 ### Links:
 
-[Portfolio](https://endquery.com/)
+[Portfolio](https://ofrepose.github.io/)
 
 [LinkedIn](https://www.linkedin.com/in/danielfpayne/)
 
@@ -21,7 +21,7 @@ I don't know. I got tired of logging into different accounts to maintain my serv
 
 [<img src="https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlHubUpdate.png">](https://github.com/Ofrepose/Ofrepose/blob/master/imgs/controlHubUpdate.png)
 
-[https://controlhub.endquery.com](https://controlhub.endquery.com)
+[ControlHub](https://ofrepose.github.io/controlhubProduction/)
 
 ---
 
