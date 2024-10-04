@@ -4,6 +4,8 @@ Let's build cool things.
 
 ### Links:
 
+[Public Repo](https://github.com/DanielPDevelopment/)
+
 [Portfolio](https://ofrepose.github.io/)
 
 [LinkedIn](https://www.linkedin.com/in/danielfpayne/)
